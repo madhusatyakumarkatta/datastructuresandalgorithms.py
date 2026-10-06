@@ -13,6 +13,8 @@ The repository is organized by weeks, covering various concepts and algorithms:
 - **Week 5:** Linked Lists (Single Linked List, Circular Linked List).
 - **Week 6:** Stacks (Array and Linked List implementations).
 - **Week 7:** Queues (Array, Linked List, and Circular Queue implementations).
+- **Week 8:** Binary Search Trees (Array, Linked List).
+
 
 ## Author
 
