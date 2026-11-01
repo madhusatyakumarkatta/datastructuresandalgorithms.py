@@ -14,6 +14,8 @@ The repository is organized by weeks, covering various concepts and algorithms:
 - **Week 6:** Stacks (Array and Linked List implementations).
 - **Week 7:** Queues (Array, Linked List, and Circular Queue implementations).
 - **Week 8:** Binary Search Trees (Array, Linked List).
+- **Week 9:** Binary Search Tree Operations and Traversals (Insertion, Search, Deletion, Min/Max, Node/Leaf counts, Height, Level Order).
+- **Week 10:** AVL Trees (Self-Balancing BST with Rotations LL/RR/LR/RL, Insertion, Deletion, Search, Traversals, Display).
 
 
 ## Author
