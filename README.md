@@ -16,6 +16,7 @@ The repository is organized by weeks, covering various concepts and algorithms:
 - **Week 8:** Binary Search Trees (Array, Linked List).
 - **Week 9:** Binary Search Tree Operations and Traversals (Insertion, Search, Deletion, Min/Max, Node/Leaf counts, Height, Level Order).
 - **Week 10:** AVL Trees (Self-Balancing BST with Rotations LL/RR/LR/RL, Insertion, Deletion, Search, Traversals, Display).
+- **Week 11:** Hashing and Collision Resolution Techniques (Separate Chaining, Linear Probing, Quadratic Probing).
 
 
 ## Author
